@@ -143,6 +143,8 @@ PLUGINS
 
 * [Git Gutter](https://github.com/airblade/vim-gitgutter): shows a git diff in the 'gutter' (sign column). It shows whether each line has been added, modified, and where lines have been removed.
 
+* [Jshint](https://github.com/walm/jshint.vim):This plugin is a front for the jshint NodeJS cli module. This plugin will allow you to run jshint from vim, and shows the results in a split window.
+
 Language specific supports
 --------------------------
 
