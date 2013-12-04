@@ -1,8 +1,9 @@
-vgod's vimrc
+Kevin's vimrc
 ============
+Author:  Kevin Lee<cameljava@gmail.com>
 Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
 
-Fork me on GITHUB  https://github.com/vgod/vimrc.
+Forked from GITHUB  https://github.com/vgod/vimrc.
 
 ONE-STEP INSTALL
 ----------------
