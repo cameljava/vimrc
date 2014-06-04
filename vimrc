@@ -336,3 +336,5 @@ au BufWritePost *.coffee silent CoffeeMake! -b | cwindow | redraw! " recompile c
 
 " --- vim-gitgutter
 let g:gitgutter_enabled = 1
+" --- json.vim
+let g:vim_json_syntax_conceal = 0
